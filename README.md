@@ -9,3 +9,4 @@ Feel free to send pull-requests with you own additions
 - `linear_equation_solver` - Linear equation solver, written in 3 lines
 - `force_derived_implments_func` - Forcing derived classes to implement specific functions
 - `single_truthy_value` - using iterables to check for one and only one truthy value in a list
+- `flatten_list_of_lists.py` - flatten a list of lists super fast, and in one line
